@@ -22,7 +22,7 @@ import {
           <div className="userShow">
             <div className="userShowTop">
               <img
-                src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                src="https://www.cristianoronaldo.com/assets/images/brand_eyewear.jpg?832236"
                 alt=""
                 className="userShowImg"
               />
@@ -105,7 +105,7 @@ import {
                 <div className="userUpdateUpload">
                   <img
                     className="userUpdateImg"
-                    src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                    src="https://www.biography.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTcxMjMwMjM1ODk0OTA2/gettyimages-972635212.jpg"
                     alt=""
                   />
                   <label htmlFor="file">
